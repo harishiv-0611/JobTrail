@@ -1,0 +1,529 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Jane Doe",
+      "email": "hari@gmail.com",
+      "password": "Password@123",
+      "masterResume": "",
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "name": "harishiv chawla",
+      "email": "harishiv@gmail.com",
+      "password": "Harishiv@0611",
+      "masterResume": "",
+      "createdAt": "2026-10-15T12:07:21.916Z",
+      "id": "BDOv1Zv7YvY"
+    },
+    {
+      "name": "shivam singh",
+      "email": "shivam@gmail.com",
+      "password": "Shivam@0611",
+      "masterResume": "",
+      "createdAt": "2026-10-15T12:10:11.215Z",
+      "id": "QD8uwgr2lC8"
+    },
+    {
+      "name": "harishiv chawla",
+      "email": "harishivchawla07@gmail.com",
+      "password": "2CmkDh#7Ry-hvKcd",
+      "masterResume": "",
+      "createdAt": "2026-10-16T07:51:45.234Z",
+      "id": "U3mjiLmJ71o"
+    }
+  ],
+  "applications": [
+    {
+      "id": "1",
+      "company": "Tech Corp",
+      "role": "Senior Developer",
+      "location": "Remote",
+      "status": "Interview",
+      "jobUrl": "https://example.com/job/1",
+      "source": "LinkedIn",
+      "appliedDate": "2024-01-15",
+      "jobDescription": "We are looking for a senior developer...",
+      "notes": [],
+      "interviews": [
+        {
+          "id": "1",
+          "type": "Technical Round",
+          "scheduledAt": "2024-01-20"
+        }
+      ],
+      "history": [
+        {
+          "status": "Applied",
+          "at": "Jan 15, 2024"
+        },
+        {
+          "status": "Screening",
+          "at": "Oct 16, 2026"
+        },
+        {
+          "status": "Rejected",
+          "at": "Oct 16, 2026"
+        },
+        {
+          "status": "Rejected",
+          "at": "Oct 16, 2026"
+        },
+        {
+          "status": "Screening",
+          "at": "Oct 16, 2026"
+        },
+        {
+          "status": "Withdrawn",
+          "at": "Oct 16, 2026"
+        },
+        {
+          "status": "Interview",
+          "at": "Oct 19, 2026",
+          "skipped": false
+        }
+      ]
+    },
+    {
+      "company": "google",
+      "role": "cto",
+      "location": "new work",
+      "status": "Wishlist",
+      "jobUrl": "",
+      "source": "",
+      "appliedDate": "2026-10-17",
+      "jobDescription": "",
+      "notes": [
+        {
+          "id": "1792066378941",
+          "text": "knkk\\",
+          "createdAt": "Oct 15, 2026, 5:42 PM"
+        }
+      ],
+      "interviews": [],
+      "history": [
+        {
+          "status": "Wishlist",
+          "at": "Oct 19, 2026",
+          "skipped": false
+        }
+      ],
+      "id": "W5YMg3sTCPo"
+    },
+    {
+      "company": "google",
+      "role": "sde",
+      "location": "remote",
+      "status": "Offer",
+      "jobUrl": "",
+      "source": "",
+      "appliedDate": "2026-10-19",
+      "jobDescription": "",
+      "notes": [],
+      "interviews": [],
+      "history": [
+        {
+          "status": "Wishlist",
+          "at": "Oct 19, 2026",
+          "skipped": false
+        },
+        {
+          "status": "Applied",
+          "at": "Oct 19, 2026",
+          "skipped": false
+        },
+        {
+          "status": "Screening",
+          "at": "Oct 19, 2026",
+          "skipped": true
+        },
+        {
+          "status": "Interview",
+          "at": "Oct 19, 2026",
+          "skipped": true
+        },
+        {
+          "status": "Offer",
+          "at": "Oct 19, 2026",
+          "skipped": false
+        }
+      ],
+      "id": "doVw5zlutmk"
+    },
+    {
+      "company": "nvidea",
+      "role": "sde",
+      "location": "remote",
+      "status": "Accepted",
+      "jobUrl": "",
+      "source": "",
+      "appliedDate": "2026-10-19",
+      "jobDescription": "",
+      "notes": [],
+      "interviews": [],
+      "history": [
+        {
+          "status": "Applied",
+          "at": "2026-10-19"
+        },
+        {
+          "status": "Screening",
+          "at": "Oct 19, 2026"
+        },
+        {
+          "status": "Interview",
+          "at": "Oct 19, 2026"
+        },
+        {
+          "status": "Offer",
+          "at": "Oct 19, 2026"
+        },
+        {
+          "status": "Accepted",
+          "at": "Oct 19, 2026"
+        }
+      ],
+      "id": "85o7QFGRg1Y"
+    },
+    {
+      "company": "nvidea",
+      "role": "sde1",
+      "location": "remote",
+      "status": "Withdrawn",
+      "jobUrl": "",
+      "source": "",
+      "appliedDate": "2026-10-19",
+      "jobDescription": "",
+      "notes": [],
+      "interviews": [],
+      "history": [
+        {
+          "status": "Applied",
+          "at": "2026-10-19"
+        },
+        {
+          "status": "Screening",
+          "at": "Oct 19, 2026"
+        },
+        {
+          "status": "Interview",
+          "at": "Oct 19, 2026"
+        },
+        {
+          "status": "Offer",
+          "at": "Oct 19, 2026"
+        },
+        {
+          "status": "Withdrawn",
+          "at": "Oct 19, 2026"
+        }
+      ],
+      "id": "OvrUSUU8XUE"
+    },
+    {
+      "company": "hwhdd",
+      "role": "fdkenfejkf",
+      "location": "",
+      "status": "Interview",
+      "jobUrl": "",
+      "source": "",
+      "appliedDate": "2026-10-19",
+      "jobDescription": "",
+      "notes": [],
+      "interviews": [],
+      "history": [
+        {
+          "status": "Applied",
+          "at": "2026-10-19"
+        },
+        {
+          "status": "Rejected",
+          "at": "Oct 19, 2026"
+        }
+      ],
+      "id": "ZJijnto05sg"
+    },
+    {
+      "company": "nvidea",
+      "role": "hh",
+      "location": "deded",
+      "status": "Accepted",
+      "jobUrl": "",
+      "source": "",
+      "appliedDate": "2026-10-19",
+      "jobDescription": "",
+      "history": [
+        {
+          "status": "Applied",
+          "at": "2026-10-19"
+        },
+        {
+          "status": "Screening",
+          "at": "Oct 19, 2026",
+          "skipped": true
+        },
+        {
+          "status": "Interview",
+          "at": "Oct 19, 2026",
+          "skipped": true
+        },
+        {
+          "status": "Offer",
+          "at": "Oct 19, 2026",
+          "skipped": true
+        },
+        {
+          "status": "Accepted",
+          "at": "Oct 19, 2026",
+          "skipped": false
+        }
+      ],
+      "notes": [],
+      "interviews": [],
+      "id": "PSw3eMpxzGs"
+    },
+    {
+      "company": "hyjghjed",
+      "role": "frrvr",
+      "location": "frfrgf",
+      "status": "Accepted",
+      "jobUrl": "",
+      "source": "",
+      "appliedDate": "2026-10-19",
+      "jobDescription": "",
+      "history": [
+        {
+          "status": "Wishlist",
+          "at": "Oct 26, 2026",
+          "skipped": true
+        },
+        {
+          "status": "Applied",
+          "at": "Oct 26, 2026",
+          "skipped": false
+        },
+        {
+          "status": "Screening",
+          "at": "Oct 26, 2026",
+          "skipped": false
+        },
+        {
+          "status": "Interview",
+          "at": "Oct 26, 2026",
+          "skipped": true
+        },
+        {
+          "status": "Offer",
+          "at": "Oct 26, 2026",
+          "skipped": true
+        },
+        {
+          "status": "Accepted",
+          "at": "Oct 26, 2026",
+          "skipped": false
+        }
+      ],
+      "notes": [],
+      "interviews": [],
+      "id": "OXB_vKUGOVM"
+    },
+    {
+      "company": "Microsoft",
+      "role": "AI/Ml Engineer",
+      "location": "New York",
+      "status": "Withdrawn",
+      "jobUrl": "",
+      "source": "",
+      "appliedDate": "2026-10-19",
+      "jobDescription": "",
+      "history": [
+        {
+          "status": "Applied",
+          "at": "2026-10-19"
+        },
+        {
+          "status": "Withdrawn",
+          "at": "Oct 19, 2026",
+          "skipped": false
+        }
+      ],
+      "notes": [],
+      "interviews": [],
+      "id": "aNU08S_dr7U"
+    },
+    {
+      "company": "hskdd",
+      "role": "ddw",
+      "location": "",
+      "status": "Accepted",
+      "jobUrl": "",
+      "source": "",
+      "appliedDate": "2026-10-19",
+      "jobDescription": "",
+      "history": [
+        {
+          "status": "Applied",
+          "at": "2026-10-19"
+        },
+        {
+          "status": "Screening",
+          "at": "Oct 19, 2026",
+          "skipped": false
+        },
+        {
+          "status": "Interview",
+          "at": "Oct 19, 2026",
+          "skipped": false
+        },
+        {
+          "status": "Offer",
+          "at": "Oct 19, 2026",
+          "skipped": false
+        },
+        {
+          "status": "Accepted",
+          "at": "Oct 19, 2026",
+          "skipped": false
+        }
+      ],
+      "notes": [],
+      "interviews": [],
+      "id": "VLhXvcPoxiU"
+    },
+    {
+      "company": "hskdd",
+      "role": "ddw",
+      "location": "",
+      "status": "Interview",
+      "jobUrl": "",
+      "source": "",
+      "appliedDate": "2026-10-19",
+      "jobDescription": "",
+      "history": [
+        {
+          "status": "Applied",
+          "at": "2026-10-19"
+        },
+        {
+          "status": "Screening",
+          "at": "Oct 19, 2026",
+          "skipped": false
+        },
+        {
+          "status": "Interview",
+          "at": "Oct 19, 2026",
+          "skipped": false
+        }
+      ],
+      "notes": [],
+      "interviews": [],
+      "id": "JWOC2FfvPCc"
+    },
+    {
+      "company": "hari",
+      "role": "ded",
+      "location": "",
+      "status": "Applied",
+      "jobUrl": "",
+      "source": "",
+      "appliedDate": "2026-10-19",
+      "jobDescription": "",
+      "history": [
+        {
+          "status": "Applied",
+          "at": "2026-10-19"
+        },
+        {
+          "status": "Screening",
+          "at": "Oct 19, 2026",
+          "skipped": true
+        },
+        {
+          "status": "Interview",
+          "at": "Oct 19, 2026",
+          "skipped": false
+        },
+        {
+          "status": "Offer",
+          "at": "Oct 19, 2026",
+          "skipped": false
+        },
+        {
+          "status": "Accepted",
+          "at": "Oct 19, 2026",
+          "skipped": false
+        },
+        {
+          "status": "Screening",
+          "at": "Oct 19, 2026",
+          "skipped": false
+        },
+        {
+          "status": "Applied",
+          "at": "Oct 19, 2026",
+          "skipped": false
+        }
+      ],
+      "notes": [],
+      "interviews": [],
+      "id": "5BpCuUEzIso"
+    },
+    {
+      "company": "gasgag",
+      "role": "sd",
+      "location": "",
+      "status": "Screening",
+      "jobUrl": "",
+      "source": "",
+      "appliedDate": "2026-10-19",
+      "jobDescription": "",
+      "history": [
+        {
+          "status": "Wishlist",
+          "at": "Oct 19, 2026",
+          "skipped": false
+        },
+        {
+          "status": "Applied",
+          "at": "Oct 19, 2026",
+          "skipped": true
+        },
+        {
+          "status": "Screening",
+          "at": "Oct 19, 2026",
+          "skipped": false
+        }
+      ],
+      "notes": [],
+      "interviews": [],
+      "id": "yjmPv76HKO4"
+    }
+  ],
+  "stats": {
+    "counts": {
+      "Applied": 5,
+      "Interviewing": 2,
+      "Offers": 1,
+      "Rejected": 1
+    },
+    "weekly": [
+      {
+        "week": 1,
+        "count": 2
+      },
+      {
+        "week": 2,
+        "count": 4
+      },
+      {
+        "week": 3,
+        "count": 3
+      },
+      {
+        "week": 4,
+        "count": 5
+      }
+    ]
+  },
+  "$schema": "./node_modules/json-server/schema.json"
+}
